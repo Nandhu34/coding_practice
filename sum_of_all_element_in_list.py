@@ -9,4 +9,4 @@ for element in lst:
     multiply=sum*multiply
 print("sum of element is ",sum)
 print("multiply of element is ",multiply)
-#get sum and multiply of all value in list
+#get sum and multiply of all value in list in python
